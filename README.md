@@ -1,4 +1,4 @@
-~~Edit (7th Apr, 10:00 am): I just realized there still may be a couple of issues with the site deployed on Heroku which would render it defunct (the Redis Queue worker doesn't execute jobs). However this app works absolutely fine locally. If you'd like to run it locally, I'd be happy to supply you wih my config variable including the API keys. Please just shoot me an email at amitruparel91 (at) Google'sMailService.com. I'll still try to debug & fix this as soon as I can but it is going to be a little difficult since I'm on call this week. Thanks!
+~~Edit (7th Apr, 10:00 am): I just realized there still may be a couple of issues with the site deployed on Heroku which would render it defunct (the Redis Queue worker doesn't execute jobs). However this app works absolutely fine locally. If you'd like to run it locally, I'd be happy to supply you wih my config variable including the API keys. Please just shoot me an email at amitruparel91 (at) Google'sMailService.com. I'll still try to debug & fix this as soon as I can but it is going to be a little difficult since I'm on call this week. Thanks!~~
 
 
 Edit (7th Apr, 11:30 pm): Fixed the issue! :)
